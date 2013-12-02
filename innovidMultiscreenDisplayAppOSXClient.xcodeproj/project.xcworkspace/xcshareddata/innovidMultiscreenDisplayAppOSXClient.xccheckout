@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D819EBF0-928E-4AAC-B07F-CAC934EB1F82</string>
+	<key>IDESourceControlProjectName</key>
+	<string>innovidMultiscreenDisplayAppOSXClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D71E1DE2-E894-4B93-9597-6AEDCDE2612E</key>
+		<string>https://github.com/jdiedrick/innovidMultiscreenDisplayAppOSXClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>innovidMultiscreenDisplayAppOSXClient.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D71E1DE2-E894-4B93-9597-6AEDCDE2612E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jdiedrick/innovidMultiscreenDisplayAppOSXClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D71E1DE2-E894-4B93-9597-6AEDCDE2612E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D71E1DE2-E894-4B93-9597-6AEDCDE2612E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>innovidMultiscreenDisplayAppOSXClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>

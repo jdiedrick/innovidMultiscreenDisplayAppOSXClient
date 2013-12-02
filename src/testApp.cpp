@@ -3,12 +3,13 @@
 //--------------------------------------------------------------
 void testApp::setup(){
     
-    
+    ofSetFrameRate(24);
+
     cout << "listening for osc messages on port " << PORT << "\n";
 
     receiver.setup( PORT );
     
-    player.loadMovie("movies/macbook4s-demo.mov");
+    player.loadMovie("movies/macbook.mov");
     player.play();
     
     
@@ -46,7 +47,7 @@ void testApp::update(){
 //--------------------------------------------------------------
 void testApp::draw(){
 
-    player.draw(0, 0);
+    player.draw(0, 0, 1280, 800);
 }
 
 //--------------------------------------------------------------
