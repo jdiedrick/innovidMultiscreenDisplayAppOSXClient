@@ -9,7 +9,7 @@ void testApp::setup(){
 
     receiver.setup( PORT );
     
-    player.loadMovie("movies/macbook.mov");
+    player.loadMovie("movies/tv.mov");
     player.play();
     
     
