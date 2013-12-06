@@ -4,7 +4,10 @@
 void testApp::setup(){
     
     ofSetFrameRate(24);
-
+    
+    //hide cursor
+    CGDisplayHideCursor(NULL);
+     
     cout << "listening for osc messages on port " << PORT << "\n";
 
     receiver.setup( PORT );
